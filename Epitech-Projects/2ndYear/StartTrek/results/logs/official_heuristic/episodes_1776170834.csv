@@ -1,0 +1,12 @@
+name,episode,length,total_reward,reason,terminated
+official_heuristic,0,491,180.043,sleep,True
+official_heuristic,1,252,303.81,sleep,True
+official_heuristic,2,206,256.781,sleep,True
+official_heuristic,3,178,251.019,sleep,True
+official_heuristic,4,188,300.441,sleep,True
+official_heuristic,5,221,295.908,sleep,True
+official_heuristic,6,200,246.415,sleep,True
+official_heuristic,7,208,280.002,sleep,True
+official_heuristic,8,680,204.88,sleep,True
+official_heuristic,9,241,314.585,sleep,True
+official_heuristic,10,256,290.587,sleep,True

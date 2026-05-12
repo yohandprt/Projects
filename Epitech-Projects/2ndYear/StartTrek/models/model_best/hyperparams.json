@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.0005,
+    "gamma": 0.99,
+    "epsilon_start": 1.0,
+    "epsilon_min": 0.01,
+    "epsilon_decay": 0.98,
+    "n_gen_to_eps_decay": null,
+    "portion_ep_to_eps_decay": null,
+    "batch_size": 128,
+    "n_gen": 1597
+}

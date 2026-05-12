@@ -1,0 +1,13 @@
+name,episode,length,total_reward,reason,terminated
+heuristic,188,82,-67.7,crash,True
+heuristic,189,59,-58.692,crash,True
+heuristic,190,86,-63.343,crash,True
+heuristic,191,101,-61.784,crash,True
+heuristic,192,95,-93.611,crash,True
+heuristic,193,57,-55.62,crash,True
+heuristic,194,73,-6.854,crash,True
+heuristic,195,87,-57.937,crash,True
+heuristic,196,60,-80.595,crash,True
+heuristic,197,89,-30.533,crash,True
+heuristic,198,57,-51.522,crash,True
+heuristic,199,77,-41.934,crash,True

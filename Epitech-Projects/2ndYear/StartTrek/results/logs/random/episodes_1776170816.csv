@@ -1,0 +1,4 @@
+name,episode,length,total_reward,reason,terminated
+random,12,69,-83.326,crash,True
+random,13,72,-121.062,crash,True
+random,14,76,-139.961,crash,True

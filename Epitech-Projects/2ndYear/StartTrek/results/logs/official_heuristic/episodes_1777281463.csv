@@ -1,0 +1,3 @@
+name,episode,length,total_reward,reason,terminated
+official_heuristic,1,252,303.81,sleep,True
+official_heuristic,2,206,256.781,sleep,True

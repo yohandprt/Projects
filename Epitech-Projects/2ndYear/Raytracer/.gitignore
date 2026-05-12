@@ -1,0 +1,5 @@
+*.o
+*.a
+*.so
+raytracer
+.DS_Store

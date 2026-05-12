@@ -1,0 +1,3 @@
+name,episode,length,total_reward,reason,terminated
+random,0,72,-183.624,crash,True
+random,1,95,-343.759,out_of_view,True
