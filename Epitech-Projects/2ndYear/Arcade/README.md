@@ -1,7 +1,5 @@
 # Arcade
 
-Arcade est une plateforme de jeux : un programme qui permet à l’utilisateur de choisir un jeu et qui conserve un registre des scores des joueurs.
-
 ## Compilation
 
 ```bash
@@ -55,4 +53,3 @@ class IGameModule : public IModule {
     virtual bool isRunning() const = 0;
 };
 ```
->Projet réalisé avec le groupe de `jules.vanden-bosch@epitech.eu`
